@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\OOP_classes\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+C:\Users\HP\source\repos\OOP_classes\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+C:\Users\HP\source\repos\OOP_classes\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\HP\source\repos\OOP_classes\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OOP_classes\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OOP_classes\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\HP\source\repos\OOP_classes\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OOP_classes\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+C:\Users\HP\source\repos\OOP_classes\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+C:\Users\HP\source\repos\OOP_classes\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\HP\source\repos\OOP_classes\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll

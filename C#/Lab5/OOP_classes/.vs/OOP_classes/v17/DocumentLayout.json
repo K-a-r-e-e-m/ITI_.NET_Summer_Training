@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\OOP_classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A860157-A1AE-4A09-85B1-B7C4D0F43419}|OOP_classes\\OOP_classes.csproj|c:\\users\\hp\\source\\repos\\oop_classes\\oop_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A860157-A1AE-4A09-85B1-B7C4D0F43419}|OOP_classes\\OOP_classes.csproj|solutionrelative:oop_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73151355-39EA-4383-A9A4-E39C8E1935A9}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\source\\repos\\oop_classes\\classlibrary1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73151355-39EA-4383-A9A4-E39C8E1935A9}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73151355-39EA-4383-A9A4-E39C8E1935A9}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\source\\repos\\oop_classes\\classlibrary1\\hiring_date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73151355-39EA-4383-A9A4-E39C8E1935A9}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\hiring_date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73151355-39EA-4383-A9A4-E39C8E1935A9}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\source\\repos\\oop_classes\\classlibrary1\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73151355-39EA-4383-A9A4-E39C8E1935A9}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73151355-39EA-4383-A9A4-E39C8E1935A9}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\source\\repos\\oop_classes\\classlibrary1\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73151355-39EA-4383-A9A4-E39C8E1935A9}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73151355-39EA-4383-A9A4-E39C8E1935A9}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\source\\repos\\oop_classes\\classlibrary1\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73151355-39EA-4383-A9A4-E39C8E1935A9}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A860157-A1AE-4A09-85B1-B7C4D0F43419}|OOP_classes\\OOP_classes.csproj|c:\\users\\hp\\source\\repos\\oop_classes\\oop_classes\\oop_classes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A860157-A1AE-4A09-85B1-B7C4D0F43419}|OOP_classes\\OOP_classes.csproj|solutionrelative:oop_classes\\oop_classes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\OOP_classes\\ClassLibrary1\\Developer.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Developer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\OOP_classes\\ClassLibrary1\\Developer.cs",
+              "RelativeToolTip": "ClassLibrary1\\Developer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:39:45.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HR.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\OOP_classes\\ClassLibrary1\\HR.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\HR.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\OOP_classes\\ClassLibrary1\\HR.cs",
+              "RelativeToolTip": "ClassLibrary1\\HR.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:32:15.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OOP_classes.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\OOP_classes\\OOP_classes\\OOP_classes.csproj",
+              "RelativeDocumentMoniker": "OOP_classes\\OOP_classes.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\OOP_classes\\OOP_classes\\OOP_classes.csproj",
+              "RelativeToolTip": "OOP_classes\\OOP_classes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-16T06:49:23.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hiring_Date.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\OOP_classes\\ClassLibrary1\\Hiring_Date.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Hiring_Date.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\OOP_classes\\ClassLibrary1\\Hiring_Date.cs",
+              "RelativeToolTip": "ClassLibrary1\\Hiring_Date.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:43:52.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\OOP_classes\\ClassLibrary1\\Gender.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Gender.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\OOP_classes\\ClassLibrary1\\Gender.cs",
+              "RelativeToolTip": "ClassLibrary1\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:43:41.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\OOP_classes\\ClassLibrary1\\Employee.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\OOP_classes\\ClassLibrary1\\Employee.cs",
+              "RelativeToolTip": "ClassLibrary1\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:43:31.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\OOP_classes\\OOP_classes\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_classes\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\OOP_classes\\OOP_classes\\Program.cs",
+              "RelativeToolTip": "OOP_classes\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T14:24:21.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
