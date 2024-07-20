@@ -9,3 +9,4 @@ C:\Users\HP\source\repos\Day_8_Lab\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.
 C:\Users\HP\source\repos\Day_8_Lab\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
 C:\Users\HP\source\repos\Day_8_Lab\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
 C:\Users\HP\source\repos\Day_8_Lab\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
+C:\Users\HP\source\repos\Day_8_Lab\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.sourcelink.json

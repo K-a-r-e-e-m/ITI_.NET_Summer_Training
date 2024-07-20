@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76478E29-AE5D-43D6-8F95-693049851623}|Day_8_Lab\\Day_8_Lab.csproj|c:\\users\\hp\\source\\repos\\day_8_lab\\day_8_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76478E29-AE5D-43D6-8F95-693049851623}|Day_8_Lab\\Day_8_Lab.csproj|solutionrelative:day_8_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\source\\repos\\day_8_lab\\classlibrary1\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\source\\repos\\day_8_lab\\classlibrary1\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76478E29-AE5D-43D6-8F95-693049851623}|Day_8_Lab\\Day_8_Lab.csproj|c:\\users\\hp\\source\\repos\\day_8_lab\\day_8_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76478E29-AE5D-43D6-8F95-693049851623}|Day_8_Lab\\Day_8_Lab.csproj|solutionrelative:day_8_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\source\\repos\\day_8_lab\\classlibrary1\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\source\\repos\\day_8_lab\\classlibrary1\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\source\\repos\\day_8_lab\\classlibrary1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\source\\repos\\day_8_lab\\classlibrary1\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "LibraryEngine.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\ClassLibrary1\\LibraryEngine.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\LibraryEngine.cs",
@@ -50,7 +50,8 @@
               "RelativeToolTip": "ClassLibrary1\\LibraryEngine.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T09:06:50.464Z"
+              "WhenOpened": "2024-07-20T09:06:50.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -62,41 +63,44 @@
               "RelativeToolTip": "ClassLibrary1\\Delegate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T18:27:12.601Z"
+              "WhenOpened": "2024-07-19T18:27:12.601Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "BookFunctions.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\ClassLibrary1\\BookFunctions.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\BookFunctions.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\ClassLibrary1\\BookFunctions.cs",
               "RelativeToolTip": "ClassLibrary1\\BookFunctions.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T17:58:02.724Z"
+              "WhenOpened": "2024-07-19T17:58:02.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\ClassLibrary1\\Book.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Book.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\ClassLibrary1\\Book.cs",
               "RelativeToolTip": "ClassLibrary1\\Book.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBMAAAAZAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA8wBMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T17:57:46.423Z"
+              "WhenOpened": "2024-07-19T17:57:46.423Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\Day_8_Lab\\Program.cs",
               "RelativeDocumentMoniker": "Day_8_Lab\\Program.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\Day_8_Lab\\Program.cs",
               "RelativeToolTip": "Day_8_Lab\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA0AAAA7AAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAvwBYAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T17:56:39.279Z",
               "EditorCaption": ""

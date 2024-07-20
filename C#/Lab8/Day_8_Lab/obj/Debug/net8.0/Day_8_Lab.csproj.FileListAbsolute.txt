@@ -16,3 +16,4 @@ C:\Users\HP\source\repos\Day_8_Lab\Day_8_Lab\obj\Debug\net8.0\refint\Day_8_Lab.d
 C:\Users\HP\source\repos\Day_8_Lab\Day_8_Lab\obj\Debug\net8.0\Day_8_Lab.pdb
 C:\Users\HP\source\repos\Day_8_Lab\Day_8_Lab\obj\Debug\net8.0\Day_8_Lab.genruntimeconfig.cache
 C:\Users\HP\source\repos\Day_8_Lab\Day_8_Lab\obj\Debug\net8.0\ref\Day_8_Lab.dll
+C:\Users\HP\source\repos\Day_8_Lab\Day_8_Lab\obj\Debug\net8.0\Day_8_Lab.sourcelink.json

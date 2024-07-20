@@ -8,17 +8,11 @@ namespace ClassLibrary1
 {
     public class BookFunctions
     {
-        public static string GetTitle(Book B)
-        {
-            return B.Title;
-        }
+        public static string GetTitle(Book B) => B.Title;
         public static string GetAuthors(Book B)
         {
-            return B.Authors.ToString();
+            return string.Join(", ", B.Authors);
         }
-        public static string GetPrice(Book B)
-        {
-            return B.Price.ToString("C");
-        }
+        public static string GetPrice(Book B) => B.Price.ToString("C");
     }
 }
