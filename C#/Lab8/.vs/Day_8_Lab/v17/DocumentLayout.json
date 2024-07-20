@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76478E29-AE5D-43D6-8F95-693049851623}|Day_8_Lab\\Day_8_Lab.csproj|c:\\users\\hp\\source\\repos\\day_8_lab\\day_8_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76478E29-AE5D-43D6-8F95-693049851623}|Day_8_Lab\\Day_8_Lab.csproj|solutionrelative:day_8_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\source\\repos\\day_8_lab\\classlibrary1\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\source\\repos\\day_8_lab\\classlibrary1\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\source\\repos\\day_8_lab\\classlibrary1\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\hp\\source\\repos\\day_8_lab\\classlibrary1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E968166F-5672-4BDC-B58A-B77D38598372}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryEngine.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\ClassLibrary1\\LibraryEngine.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\LibraryEngine.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\ClassLibrary1\\LibraryEngine.cs",
+              "RelativeToolTip": "ClassLibrary1\\LibraryEngine.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:06:50.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\ClassLibrary1\\Delegate.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Delegate.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\ClassLibrary1\\Delegate.cs",
+              "RelativeToolTip": "ClassLibrary1\\Delegate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T18:27:12.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\ClassLibrary1\\BookFunctions.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\BookFunctions.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\ClassLibrary1\\BookFunctions.cs",
+              "RelativeToolTip": "ClassLibrary1\\BookFunctions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T17:58:02.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\ClassLibrary1\\Book.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Book.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\ClassLibrary1\\Book.cs",
+              "RelativeToolTip": "ClassLibrary1\\Book.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T17:57:46.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\Day_8_Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Day_8_Lab\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_8_Lab\\Day_8_Lab\\Program.cs",
+              "RelativeToolTip": "Day_8_Lab\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T17:56:39.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
