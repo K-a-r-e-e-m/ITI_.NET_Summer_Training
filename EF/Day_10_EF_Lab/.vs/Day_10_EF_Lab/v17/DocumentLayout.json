@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hp\\source\\repos\\day_10_ef_lab\\winformsapp1\\models\\works_for.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\works_for.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hp\\source\\repos\\day_10_ef_lab\\winformsapp1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hp\\source\\repos\\day_10_ef_lab\\winformsapp1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hp\\source\\repos\\day_10_ef_lab\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hp\\source\\repos\\day_10_ef_lab\\winformsapp1\\models\\company_sdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\company_sdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hp\\source\\repos\\day_10_ef_lab\\winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hp\\source\\repos\\day_10_ef_lab\\winformsapp1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hp\\source\\repos\\day_10_ef_lab\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hp\\source\\repos\\day_10_ef_lab\\winformsapp1\\models\\dependent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\models\\dependent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\winformsapp1\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\hp\\source\\repos\\day_10_ef_lab\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A44EDF59-E309-47DC-9CBE-33368417F3F0}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FBE9CF-DE4E-455B-9DD1-A92AB694D334}|Day_10_EF_Lab\\Day_10_EF_Lab.csproj|c:\\users\\hp\\source\\repos\\day_10_ef_lab\\day_10_ef_lab\\entities\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FBE9CF-DE4E-455B-9DD1-A92AB694D334}|Day_10_EF_Lab\\Day_10_EF_Lab.csproj|solutionrelative:day_10_ef_lab\\entities\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FBE9CF-DE4E-455B-9DD1-A92AB694D334}|Day_10_EF_Lab\\Day_10_EF_Lab.csproj|c:\\users\\hp\\source\\repos\\day_10_ef_lab\\day_10_ef_lab\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FBE9CF-DE4E-455B-9DD1-A92AB694D334}|Day_10_EF_Lab\\Day_10_EF_Lab.csproj|solutionrelative:day_10_ef_lab\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dependent.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Models\\Dependent.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Dependent.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Models\\Dependent.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Dependent.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:56:43.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Works_for.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Models\\Works_for.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Works_for.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Models\\Works_for.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Works_for.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:56:39.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Models\\Employee.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Employee.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:55:04.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Models\\Project.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:52:33.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Models\\Department.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Department.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:52:28.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Company_SDContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Models\\Company_SDContext.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Models\\Company_SDContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Models\\Company_SDContext.cs",
+              "RelativeToolTip": "WinFormsApp1\\Models\\Company_SDContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:52:16.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WinFormsApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp1\\WinFormsApp1.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeToolTip": "WinFormsApp1\\WinFormsApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T19:42:18.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Form1.resx",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.resx",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Form1.resx",
+              "RelativeToolTip": "WinFormsApp1\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-26T19:36:48.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:45:01.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "WinFormsApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:45:02.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAvwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:44:56.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:42:55.591Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\Day_10_EF_Lab\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Day_10_EF_Lab\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\Day_10_EF_Lab\\Models\\Instructor.cs",
+              "RelativeToolTip": "Day_10_EF_Lab\\Models\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:17:19.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\Day_10_EF_Lab\\Entities\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "Day_10_EF_Lab\\Entities\\CompanyContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Day_10_EF_Lab\\Day_10_EF_Lab\\Entities\\CompanyContext.cs",
+              "RelativeToolTip": "Day_10_EF_Lab\\Entities\\CompanyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:17:16.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
