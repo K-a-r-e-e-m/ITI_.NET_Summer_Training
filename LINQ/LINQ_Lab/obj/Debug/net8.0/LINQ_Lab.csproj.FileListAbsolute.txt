@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\LINQ_Lab\LINQ_Lab\bin\Debug\net8.0\LINQ_Lab.exe
+C:\Users\HP\source\repos\LINQ_Lab\LINQ_Lab\bin\Debug\net8.0\LINQ_Lab.deps.json
+C:\Users\HP\source\repos\LINQ_Lab\LINQ_Lab\bin\Debug\net8.0\LINQ_Lab.runtimeconfig.json
+C:\Users\HP\source\repos\LINQ_Lab\LINQ_Lab\bin\Debug\net8.0\LINQ_Lab.dll
+C:\Users\HP\source\repos\LINQ_Lab\LINQ_Lab\bin\Debug\net8.0\LINQ_Lab.pdb
+C:\Users\HP\source\repos\LINQ_Lab\LINQ_Lab\obj\Debug\net8.0\LINQ_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LINQ_Lab\LINQ_Lab\obj\Debug\net8.0\LINQ_Lab.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LINQ_Lab\LINQ_Lab\obj\Debug\net8.0\LINQ_Lab.AssemblyInfo.cs
+C:\Users\HP\source\repos\LINQ_Lab\LINQ_Lab\obj\Debug\net8.0\LINQ_Lab.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LINQ_Lab\LINQ_Lab\obj\Debug\net8.0\LINQ_Lab.dll
+C:\Users\HP\source\repos\LINQ_Lab\LINQ_Lab\obj\Debug\net8.0\refint\LINQ_Lab.dll
+C:\Users\HP\source\repos\LINQ_Lab\LINQ_Lab\obj\Debug\net8.0\LINQ_Lab.pdb
+C:\Users\HP\source\repos\LINQ_Lab\LINQ_Lab\obj\Debug\net8.0\LINQ_Lab.genruntimeconfig.cache
+C:\Users\HP\source\repos\LINQ_Lab\LINQ_Lab\obj\Debug\net8.0\ref\LINQ_Lab.dll
