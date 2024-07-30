@@ -1,0 +1,33 @@
+﻿@* @foreach (var emp in Model)
+{
+    <div>
+        <h1>@emp.Name</h1>
+        <h1>@emp.Age</h1>
+    </div>
+} *@
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Age</th>
+            <th scope="col">Email</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        @{
+            int i = 0;
+            foreach (var emp in Model)
+            {
+                <tr>
+                <th scope="row">@(++i)</th>
+                <td>@emp.Name</td>
+                <td>@emp.Age</td>
+                <td>@emp.Email</td>
+            </tr>
+            }
+        }
+   
+    </tbody>
+
+</table>

@@ -1,0 +1,17 @@
+﻿<div class="card" style="width: 18rem;">
+    @{
+        string img;
+        if (Model.Name == "Kareem") { img = "~/Kareem.png"; }
+        else if (Model.Name == "Ali") { img = "~/Ali.png"; }
+        else { img = "~/Sayed.png"; }
+
+   }
+
+    <img src=@Url.Content(img) class="card-img-top" alt="...">
+
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Address</p>
+        <a href="#" class="btn btn-primary">@Model.Email</a>
+    </div>
+</div>
