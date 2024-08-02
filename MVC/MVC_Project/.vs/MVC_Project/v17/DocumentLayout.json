@@ -1,0 +1,518 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\MVC_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\context\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\context\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\views\\instructor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\views\\instructor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\views\\instructor\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\views\\instructor\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\viewmodels\\deptmsgcolorwithbranchesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\viewmodels\\deptmsgcolorwithbranchesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\models\\crsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\models\\crsresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240802072824_NewDatabases2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC_Project\\Migrations\\20240802072824_NewDatabases2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\mvc_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\mvc_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\migrations\\20240801120027_addrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\migrations\\20240801120027_addrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\migrations\\20240801114826_newdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\migrations\\20240801114826_newdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\migrations\\20240801120352_addrelation1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\migrations\\20240801120352_addrelation1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\migrations\\20240801120519_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\migrations\\20240801120519_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\migrations\\20240801120655_createdb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\migrations\\20240801120655_createdb1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801114716_newDB1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC_Project\\Migrations\\20240801114716_newDB1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801113628_newDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVC_Project\\Migrations\\20240801113628_newDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\mvc_project.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\mvc_project.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|c:\\users\\hp\\source\\repos\\mvc_project\\mvc_project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DB42DA6-E50D-4A54-9026-74544A1B5F53}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\MVC_Lab1\\MVC_Lab1\\Context\\SchoolContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Views\\Instructor\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_Project\\Views\\Instructor\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Views\\Instructor\\Details.cshtml",
+              "RelativeToolTip": "MVC_Project\\Views\\Instructor\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T08:00:30.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_Project\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T11:20:04.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Models\\Instructor.cs",
+              "RelativeToolTip": "MVC_Project\\Models\\Instructor.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:18:35.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Controllers\\InstructorController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "MVC_Project\\Controllers\\InstructorController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:42:26.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Views\\Instructor\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "MVC_Project\\Views\\Instructor\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Views\\Instructor\\GetAll.cshtml",
+              "RelativeToolTip": "MVC_Project\\Views\\Instructor\\GetAll.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T08:00:15.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Models\\Trainee.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Models\\Trainee.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Models\\Trainee.cs",
+              "RelativeToolTip": "MVC_Project\\Models\\Trainee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:18:38.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Program.cs",
+              "RelativeToolTip": "MVC_Project\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:21:57.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Context\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Context\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Context\\SchoolContext.cs",
+              "RelativeToolTip": "MVC_Project\\Context\\SchoolContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:25:06.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeptMsgColorWithBranchesVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\ViewModels\\DeptMsgColorWithBranchesVM.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\ViewModels\\DeptMsgColorWithBranchesVM.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\ViewModels\\DeptMsgColorWithBranchesVM.cs",
+              "RelativeToolTip": "MVC_Project\\ViewModels\\DeptMsgColorWithBranchesVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:16:26.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CrsResult.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Models\\CrsResult.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Models\\CrsResult.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Models\\CrsResult.cs",
+              "RelativeToolTip": "MVC_Project\\Models\\CrsResult.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:18:14.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Models\\Department.cs",
+              "RelativeToolTip": "MVC_Project\\Models\\Department.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:18:26.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240802072824_NewDatabases2.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240802072824_NewDatabases2.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Migrations\\20240802072824_NewDatabases2.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240802072824_NewDatabases2.cs",
+              "RelativeToolTip": "MVC_Project\\Migrations\\20240802072824_NewDatabases2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:28:25.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Models\\Course.cs",
+              "RelativeToolTip": "MVC_Project\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:18:48.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MVC_Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MVC_Project\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T11:29:01.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC_Project\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC_Project\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T11:17:04.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC_Project\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC_Project\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T11:20:00.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240801114826_newDB.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801114826_newDB.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Migrations\\20240801114826_newDB.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801114826_newDB.cs",
+              "RelativeToolTip": "MVC_Project\\Migrations\\20240801114826_newDB.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:48:26.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240801120027_AddRelation.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801120027_AddRelation.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Migrations\\20240801120027_AddRelation.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801120027_AddRelation.cs",
+              "RelativeToolTip": "MVC_Project\\Migrations\\20240801120027_AddRelation.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:00:27.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MVC_Project.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\MVC_Project.csproj",
+              "RelativeDocumentMoniker": "MVC_Project\\MVC_Project.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\MVC_Project.csproj",
+              "RelativeToolTip": "MVC_Project\\MVC_Project.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T11:24:09.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240801120655_CreateDB1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801120655_CreateDB1.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Migrations\\20240801120655_CreateDB1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801120655_CreateDB1.cs",
+              "RelativeToolTip": "MVC_Project\\Migrations\\20240801120655_CreateDB1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:06:55.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240801120519_CreateDB.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801120519_CreateDB.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Migrations\\20240801120519_CreateDB.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801120519_CreateDB.cs",
+              "RelativeToolTip": "MVC_Project\\Migrations\\20240801120519_CreateDB.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:05:19.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240801120352_AddRelation1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801120352_AddRelation1.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Migrations\\20240801120352_AddRelation1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801120352_AddRelation1.cs",
+              "RelativeToolTip": "MVC_Project\\Migrations\\20240801120352_AddRelation1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:03:52.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240801114716_newDB1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801114716_newDB1.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Migrations\\20240801114716_newDB1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801114716_newDB1.cs",
+              "RelativeToolTip": "MVC_Project\\Migrations\\20240801114716_newDB1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:47:16.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240801113628_newDB.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801113628_newDB.cs",
+              "RelativeDocumentMoniker": "MVC_Project\\Migrations\\20240801113628_newDB.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Migrations\\20240801113628_newDB.cs",
+              "RelativeToolTip": "MVC_Project\\Migrations\\20240801113628_newDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:36:28.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVC_Project\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVC_Project\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T11:34:36.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\appsettings.json",
+              "RelativeToolTip": "MVC_Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T11:28:39.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MVC_Project\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\appsettings.Development.json",
+              "RelativeToolTip": "MVC_Project\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T11:17:00.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MVC_Project",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\MVC_Project.csproj",
+              "RelativeDocumentMoniker": "MVC_Project\\MVC_Project.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Project\\MVC_Project\\MVC_Project.csproj",
+              "RelativeToolTip": "MVC_Project\\MVC_Project.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T11:29:16.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MVC_Lab1\\MVC_Lab1\\Context\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "..\\MVC_Lab1\\MVC_Lab1\\Context\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MVC_Lab1\\MVC_Lab1\\Context\\SchoolContext.cs",
+              "RelativeToolTip": "..\\MVC_Lab1\\MVC_Lab1\\Context\\SchoolContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:24:32.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
