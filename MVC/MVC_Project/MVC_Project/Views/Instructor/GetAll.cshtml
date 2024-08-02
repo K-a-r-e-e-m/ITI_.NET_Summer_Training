@@ -1,0 +1,32 @@
+﻿@model List<Instructor>
+
+@*Convert the Model (Cating) that returened from action to type student
+instead of dynamic type that detected in run time*@
+
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Salary</th>
+            <th scope="col">Address</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        @{
+            int i = 0;
+            foreach (var inst in Model)
+            {
+                <tr>
+                <th scope="row">@(++i)</th>
+                <td>@inst.InstName</td>
+                <td>@inst.Salary</td>
+                <td>@inst.Address</td>
+            </tr>
+            }
+        }
+
+    </tbody>
+
+</table>
