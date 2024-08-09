@@ -1,0 +1,24 @@
+﻿@model Instructor
+@{
+    Layout = "_LayoutNewDetailsEdit";
+}
+@* If we don't use update --> action="/Instructor/EditSave/@Model?.InstId"*@
+<form action="/Instructor/EditSave" method="post">
+    @*When send data to EditSave send also InstId to allow us update the department*@
+    <input type="hidden" value="@Model?.InstId" name="InstId"/>
+
+    <div class="mb-3">
+        <label class="form-label">Instructor Name</label>
+        <input type="text" class="form-control" value="@Model?.InstName" name="InstName" required>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Manager</label>
+        <input type="text" class="form-control" value="@Model?.Salary" name="Salary" required>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Manager</label>
+        <input type="text" class="form-control" value="@Model?.Address" name="Address" required>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>

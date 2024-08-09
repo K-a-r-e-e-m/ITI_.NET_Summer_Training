@@ -1,0 +1,52 @@
+﻿@model Trainee
+
+@{
+    Layout = "_LayoutNewDetailsEdit";
+}
+
+@{
+    SelectList DeptList = new SelectList(ViewBag.Dept, "DeptId", "DeptName");
+}
+
+<form action="/Trainee/Save" method="post">
+    <div asp-validation-summary="All" class="text-danger">
+
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Trainee Name</label>
+        <input asp-for="Name" class="form-control" required/>
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        @* <label class="form-label">Grade</label> *@
+        <label asp-for="Grade" class="form-label"></label>
+        @* <input type="text" class="form-control" value="@Model?.Grade" name="Grade" required> *@
+        <input asp-for="Grade" class="form-control" required />
+        <span asp-validation-for="Grade" class="text-danger"></span>
+
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Address</label>
+        @* <input type="text" class="form-control" value="@Model?.Address" name="Address" required> *@
+        <input asp-for="Address" class="form-control" required />
+        <span asp-validation-for="Address" class="text-danger"></span>
+
+    </div>
+    <div class="mb-3">
+        <label asp-for="DeptId" class="form-label"></label>
+        <select asp-for="DeptId" asp-items="DeptList" class="form-control">
+        </select>
+        <span asp-validation-for="DeptId" class="text-danger"></span>
+
+    </div>
+
+    
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+@section Scripts
+{
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+}

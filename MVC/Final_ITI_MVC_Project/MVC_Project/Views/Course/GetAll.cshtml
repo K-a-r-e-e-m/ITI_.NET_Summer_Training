@@ -1,0 +1,55 @@
+﻿@model List<Course>
+@{
+    Layout = "_AdvLayout";
+}
+@*Convert the Model (Cating) that returened from action to type student
+instead of dynamic type that detected in run time*@
+
+<br />
+<br />
+<a href="/Course/New" class="btn btn-primary">New item</a>
+<br />
+<br />
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Degree</th>
+            <th scope="col">MinDegree</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        @foreach (var crs in Model)
+        {
+            <tr>
+                <td>@crs.CrsId</td>
+                <td>@crs.CrsName</td>
+                <td>@crs.Degree</td>
+                <td>@crs.MinDegree</td>
+                <td>
+                    @* <a href="/Course/Details/@crs.CrsId" class="btn btn-outline-secondary">Details</a> *@
+                    <a asp-action="Details" asp-controller="Course" asp-route-id="@crs.CrsId" class="btn btn-outline-secondary">Details</a>
+                </td>
+                <td>
+                <td>
+                    @*<a href="/Course/Edit/@crs.CrsId" class="btn btn-outline-info">Edit</a>*@
+                    @Html.ActionLink("Edit", "Edit", "Course", new{ id = crs.CrsId }, new{ @class="btn btn-outline-info"} )
+                    @*if there is no parameter for id           ^^^^^^^^^^^^^^^^^^^  we pass null instead*@
+                <td>
+                    <a href="/Course/Delete/@crs.CrsId"
+                       class="btn btn-outline-danger"
+                       onclick="return confirm('Are you sure you want to delete this department?');">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+

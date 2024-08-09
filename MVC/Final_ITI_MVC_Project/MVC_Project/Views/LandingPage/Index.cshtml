@@ -1,0 +1,55 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using MVC_Project.Areas.Identity.Data
+
+@inject SignInManager<MVC_ProjectUser> SignInManager
+@inject UserManager<MVC_ProjectUser> UserManager
+
+<div class="auth-buttons">
+    <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="btn-custom btn-register" id="register" asp-area="Identity" asp-page="/Account/Register">Register</a>
+            </li>
+            <li class="nav-item">
+                <a class="btn-custom" id="login" asp-area="Identity" asp-page="/Account/Login">Login</a>
+            </li>
+    </ul>
+</div>
+
+<style>
+    /* Centering the buttons */
+    .auth-buttons {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 0;
+    }
+
+    /* Custom button styles for login and register */
+    .btn-custom {
+        display: inline-block;
+        width: 120px;
+        padding: 12px;
+        margin: 5px;
+        font-size: 16px;
+        border-radius: 5px;
+        border: none;
+        color: #fff;
+        text-align: center;
+        background-color: #007bff; /* Blue color for login */
+        text-decoration: none;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-custom:hover {
+            background-color: #0056b3; /* Darker blue on hover */
+        }
+
+    /* Additional style for the Register button */
+    .btn-register {
+        background-color: #28a745; /* Green color for register */
+    }
+
+        .btn-register:hover {
+            background-color: #218838; /* Darker green on hover */
+        }
+</style>

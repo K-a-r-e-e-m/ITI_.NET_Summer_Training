@@ -1,0 +1,14 @@
+﻿@model Course
+
+@{
+    Layout = "_LayoutNewDetailsEdit";
+}
+<div class="card" style="width: 18rem;">   
+    <div class="card-body">
+        <h5 class="card-title">@Model.CrsName</h5>
+        <p class="card-text">@Model.Degree</p>
+        <p class="card-text">@Model.MinDegree</p>
+        <p class="card-text">@Model.Department?.DeptName</p>
+        <a href="/Course/GetAll" class="btn btn-outline-success">Back to List</a>
+    </div>
+</div>

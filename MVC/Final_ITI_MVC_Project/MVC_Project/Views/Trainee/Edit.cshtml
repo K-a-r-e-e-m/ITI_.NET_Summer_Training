@@ -1,0 +1,33 @@
+﻿@model Trainee
+@{
+    Layout = "_LayoutNewDetailsEdit";
+}
+
+@* If we don't use update --> action="/Trainee/EditSave/@Model?.InstId"*@
+<form action="/Trainee/EditSave" method="post">
+    @*When send data to EditSave send also InstId to allow us update the department*@
+    <input type="hidden" value="@Model?.Id" name="Id" />
+
+    <div class="mb-3">
+        <label class="form-label">Trainee Name</label>
+        <input type="text" class="form-control" value="@Model?.Name" name="Name" required/>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Grade</label>
+        <input type="text" class="form-control" value="@Model?.Grade" name="Grade" required>
+    </div>
+    <div class="mb-3">
+       @*<label class="form-label">Address</label> *@
+       @Html.LabelFor(e => e.Address)
+        <input type="text" class="form-control" value="@Model?.Address" name="Address" required>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+<br/>
+<!--Pure HTML-->
+@* <a href="/Trainee/GetAll" class="btn btn-outline-primary">Back to list</a>*@
+<!--HTML Helper-->
+@* @Html.ActionLink("Back to list", "GetAll", "Trainee", null,  new {@class="btn btn-outline-primary"})*@
+ <!--Tag Helper-->
+<a asp-action="GetAll" asp-controller="Trainee" class="btn btn-outline-success">Back to list</a>

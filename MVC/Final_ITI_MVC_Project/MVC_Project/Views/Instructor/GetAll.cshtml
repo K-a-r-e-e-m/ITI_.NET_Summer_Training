@@ -1,0 +1,53 @@
+﻿@model List<Instructor>
+
+@{
+    Layout = "_AdvLayout";
+}
+@*Convert the Model (Cating) that returened from action to type student
+instead of dynamic type that detected in run time*@
+
+<br/>
+<br/>
+<a href="/Instructor/New" class="btn btn-primary">New item</a>
+<br/>
+<br/>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Salary</th>
+            <th scope="col">Address</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        @foreach (var inst in Model)
+        {
+            <tr>
+                <td>@inst.InstId</td>
+                <td>@inst.InstName</td>
+                <td>@inst.Salary</td>
+                <td>@inst.Address</td>
+                <td>
+                    <a href="/Instructor/Details/@inst.InstId" class="btn btn-outline-secondary">Details</a>
+                </td>
+                <td>
+                <td>
+                    <a href="/Instructor/Edit/@inst.InstId" class="btn btn-outline-info">Edit</a>
+                </td>
+                <td>
+                    <a href="/Instructor/Delete/@inst.InstId" 
+                       class="btn btn-outline-danger"
+                       onclick="return confirm('Are you sure you want to delete this department?');">
+                       Delete
+                     </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

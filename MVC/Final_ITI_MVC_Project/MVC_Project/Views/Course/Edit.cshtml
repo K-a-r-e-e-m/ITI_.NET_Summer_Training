@@ -1,0 +1,33 @@
+﻿@model Course
+@{
+    Layout = "_LayoutNewDetailsEdit";
+}
+
+@* If we don't use update --> action="/Course/EditSave/@Model?.InstCrsId"*@
+<form action="/Course/EditSave" method="post">
+    @*When send data to EditSave send also InstCrsId to allow us update the department*@
+    <input type="hidden" value="@Model?.CrsId" name="CrsId" />
+
+    <div class="mb-3">
+        <label class="form-label">Course Name</label>
+        <input type="text" class="form-control" value="@Model?.CrsName" name="CrsName" required/>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Degree</label>
+        <input type="text" class="form-control" value="@Model?.Degree" name="Degree" required>
+    </div>
+    <div class="mb-3">
+       @*<label class="form-label">MinDegree</label> *@
+       @Html.LabelFor(e => e.MinDegree)
+        <input type="text" class="form-control" value="@Model?.MinDegree" name="MinDegree" required>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+<br/>
+<!--Pure HTML-->
+@* <a href="/Course/GetAll" class="btn btn-outline-primary">Back to list</a>*@
+<!--HTML Helper-->
+@* @Html.ActionLink("Back to list", "GetAll", "Course", null,  new {@class="btn btn-outline-primary"})*@
+ <!--Tag Helper-->
+<a asp-action="GetAll" asp-controller="Course" class="btn btn-outline-success">Back to list</a>

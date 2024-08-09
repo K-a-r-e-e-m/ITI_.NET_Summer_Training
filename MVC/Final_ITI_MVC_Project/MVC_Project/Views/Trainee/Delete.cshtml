@@ -1,0 +1,14 @@
+﻿@model Department
+
+<div class="alert alert-danger" role="alert">
+    <h4>
+        Can't delete this department
+    </h4> 
+    <p>
+        There is a refrence for this department with courses or instructor or trainee
+        <br/>
+        Please delete it from there and then you can delete it from here
+    </p>
+</div>
+
+<a href="/Department/Index" class="btn btn-outline-success">Back to List</a>

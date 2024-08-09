@@ -1,0 +1,47 @@
+﻿@model ICollection<Department>
+@{
+    Layout = "_AdvLayout";
+}
+<br/>
+<br/>
+<a href="/Department/New" class="btn btn-primary">New item</a>
+<br/>
+<br/>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Manager</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        @foreach (var dept in Model)
+        {
+            <tr>
+                <td>@dept.DeptId</td>
+                <td>@dept.DeptName</td>
+                <td>@dept.Manager</td>
+                <td>
+                    <a href="/Department/Details/@dept.DeptId" class="btn btn-outline-secondary">Details</a>
+                </td>
+                <td>
+                <td>
+                    <a href="/Department/Edit/@dept.DeptId" class="btn btn-outline-info">Edit</a>
+                </td>
+                <td>
+                    <a href="/Department/Delete/@dept.DeptId" 
+                       class="btn btn-outline-danger"
+                       onclick="return confirm('Are you sure you want to delete this department?');">
+                       Delete
+                     </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

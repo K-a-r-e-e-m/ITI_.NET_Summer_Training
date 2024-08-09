@@ -1,0 +1,23 @@
+﻿@model Department
+@{
+    Layout = "_LayoutNewDetailsEdit";
+}
+<div class="card" style="width: 18rem;">
+@*     @{
+        string img;
+        if (Model.DeptName == "SD") { img = "~/Kareem.png"; }
+        else if (Model.DeptName == "HR") { img = "~/Ali.png"; }
+        else { img = "~/Sayed.png"; }
+
+   } *@
+
+@*     <img src=@Url.Content(img) class="card-img-top" alt="...">*@
+    <div class="card-body">
+        <h5 class="card-title">@Model.DeptName</h5>
+        <p class="card-text">@Model.Manager</p>
+        <a href="#" class="btn btn-primary">Number of trainees: @Model.Trainees.Count</a>
+        <br/>
+        <br/>
+        <a href="/Department/Index" class="btn btn-outline-success">Back to List</a>
+    </div>
+</div>

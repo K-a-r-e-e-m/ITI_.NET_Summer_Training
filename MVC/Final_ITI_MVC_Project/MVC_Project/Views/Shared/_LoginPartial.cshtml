@@ -1,0 +1,23 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using MVC_Project.Areas.Identity.Data
+
+@inject SignInManager<MVC_ProjectUser> SignInManager
+@inject UserManager<MVC_ProjectUser> UserManager
+
+<div class="auth-buttons">
+    <ul class="navbar-nav">
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <li class="nav-item">
+                <a id="manage" class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Hello @UserManager.GetUserName(User)!</a>
+
+
+            </li>
+            <li class="nav-item btn btn-outline-danger">
+                <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "LandingPage", new { area = "" })">
+                    <button id="logout" type="submit" class="nav-link btn btn-link text-dark border-0">Logout</button>
+                </form>
+            </li>
+        }
+    </ul>
+</div>

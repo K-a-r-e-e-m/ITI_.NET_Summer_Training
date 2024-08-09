@@ -1,0 +1,20 @@
+﻿@model Department
+@{
+    Layout = "_LayoutNewDetailsEdit";
+}
+@* If we don't use update --> action="/Department/EditSave/@Model?.DeptId"*@
+<form action="/Department/EditSave" method="post">
+    @*When send data to EditSave send also DeptId to allow us update the department*@
+    <input type="hidden" value="@Model?.DeptId" name="DeptId"/>
+
+    <div class="mb-3">
+        <label class="form-label">Department Name</label>
+        <input type="text" class="form-control" value="@Model?.DeptName" name="DeptName" required>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Manager</label>
+        <input type="text" class="form-control" value="@Model?.Manager" name="Manager" required>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>

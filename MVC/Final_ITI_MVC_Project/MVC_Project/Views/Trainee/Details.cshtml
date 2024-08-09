@@ -1,0 +1,24 @@
+﻿@model Trainee
+
+@{
+    Layout = "_LayoutNewDetailsEdit";
+}
+<div class="card" style="width: 18rem;">
+        @{
+    string img;
+    if (Model.Image == "KareemHany.png") { img = "~/Kareem.png"; }
+    else if (Model.Image == "Samir.png") { img = "~/Ali.png"; }
+    else { img = "~/Sayed.png"; }
+
+    }
+
+    <img src=@Url.Content(img) class="card-img-top" alt="...">
+   
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">@Model.Grade</p>
+        <p class="card-text">@Model.Address</p>
+        <p class="card-text">@Model.Department?.DeptName</p>
+        <a href="/Trainee/GetAll" class="btn btn-outline-success">Back to List</a>
+    </div>
+</div>

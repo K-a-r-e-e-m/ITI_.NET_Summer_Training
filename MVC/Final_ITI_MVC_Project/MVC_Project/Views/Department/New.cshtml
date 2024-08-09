@@ -1,0 +1,29 @@
+﻿@model Department
+@{
+    Layout = "_LayoutNewDetailsEdit";
+}
+<form action="/Department/Save" method="post">
+    <div asp-validation-summary="All" class="text-danger">
+    </div>
+    <div class="mb-3">
+        <label asp-for="DeptName">Department Name</label>
+        <input asp-for="DeptName" class="form-control" required />
+        <span asp-validation-for="DeptName" class="text-danger"></span>
+
+    </div>
+    <div class="mb-3">
+        <label asp-for="Manager">Manager</label>
+        <input asp-for="Manager" class="form-control" required />
+        <span asp-validation-for="Manager" class="text-danger"></span>
+
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+@section Scripts
+{
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+}
